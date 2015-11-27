@@ -1,0 +1,19 @@
+{
+  "name": "victory-chord",
+  "version": "0.0.1",
+  "description": "chord component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-chord.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-chord/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-chord",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
